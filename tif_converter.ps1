@@ -22,5 +22,5 @@ foreach($pdf in $pdfs){
 }
 
 EXIT
-#Developed by JoshuaNowlenWebb - github.com/NowlenWebb
-#Adapted from code by RISL2023 - StackOverflow
+#Adapted by JoshuaNowlenWebb - github.com/NowlenWebb
+#From code by RISL2023 - StackOverflow
